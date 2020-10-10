@@ -8,3 +8,6 @@ Coding in Python using Tkinter and an OMDB API (Open Movie Database API) I creat
   - rate movies
   - add friends and share ratings
   - get recommendations from based on your ratings
+
+To run the application:
+  - MovieApp\dist\MovieApp.exe
